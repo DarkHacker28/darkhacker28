@@ -14,10 +14,9 @@
 
    <div align="center">
      💫 As a motivated and recent graduate, I bring a fresh perspective and a strong foundation of knowledge to any organization. Leveraged academic knowledge and latest approach to swiftly adapt and deliver impactful contributions, enhancing team dynamics and driving a 25% boost in productivity within the first quarter.
-
-     <br><br>🤝 I’m looking for help with My Practice Codes🌱<br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++ <br>⚡ Contact me : Hassu1402@gmail.com
-     
-    </div>
+  </div>
+     🤝 I’m looking for help with My Practice Codes🌱<br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++ <br>⚡ Contact me : Hassu1402@gmail.com
+    
 </div>
 
 ## 📋 <a name="table">Table of Contents :</a>
@@ -37,7 +36,7 @@ This repository contains the code what every thing I have made and Created.
 
 If you prefer visual learning, this is the perfect resource for you. Follow to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://github.com/DarkHacker28" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://github.com/DarkHacker28" target="_blank"><img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo"/></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
