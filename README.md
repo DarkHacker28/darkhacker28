@@ -15,8 +15,11 @@
    <div align="center">
      💫 As a motivated and recent graduate, I bring a fresh perspective and a strong foundation of knowledge to any organization. Leveraged academic knowledge and latest approach to swiftly adapt and deliver impactful contributions, enhancing team dynamics and driving a 25% boost in productivity within the first quarter.
   </div>
+  
   </div>
-     🤝 I’m looking for help with My Practice Codes🌱<br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++ <br>⚡ Contact me : Hassu1402@gmail.com
+     🤝 I’m looking for help with My Practice Codes🌱
+     <br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++
+     <br>⚡ Contact me : Hassu1402@gmail.com
   
 
 ## 📋 <a name="table">Table of Contents :</a>
