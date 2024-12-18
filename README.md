@@ -91,17 +91,8 @@
 
 
 ---
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkhacker28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=DarkHacker28&icon=0&color=1)](https://visitcount.itsvg.in)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-![logo](https://github.com/DarkHacker28/darkhacker28/blob/main/github-header-image%20(2).png)
-
-
-
 
 <div align="center">
 
@@ -862,7 +853,9 @@ Models and Assets used in the project can be found
 
 Enjoyed creating this project? Dive deeper into my projects for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-![logo](https://github.com/DarkHacker28/darkhacker28/blob/main/github-header-image%20(2).png) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkhacker28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=DarkHacker28&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
