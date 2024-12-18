@@ -15,7 +15,9 @@
    <div align="center">
      💫 As a motivated and recent graduate, I bring a fresh perspective and a strong foundation of knowledge to any organization. Leveraged academic knowledge and latest approach to swiftly adapt and deliver impactful contributions, enhancing team dynamics and driving a 25% boost in productivity within the first quarter.
   </div>
+
   
+  ## <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/like--v1.png" alt="like--v1"/> 
   </div>
      🤝 I’m looking for help with My Practice Codes🌱
      <br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++
