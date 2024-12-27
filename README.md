@@ -847,23 +847,6 @@ module.exports = {
 
 
 
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/DarkHacker28#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DarkHacker28&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DarkHacker28#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=DarkHacker28&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/DarkHacker28#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHacker28&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DarkHacker28#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHacker28&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/DarkHacker28#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHacker28&theme=default"/></a><a href="https://github.com/DarkHacker28#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHacker28&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/DarkHacker28#gh-light-mode-only"><img src="https://raw.githubusercontent.com/DarkHacker28/DarkHacker28/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/DarkHacker28#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/DarkHacker28/DarkHacker28/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
-
-
-
-
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
