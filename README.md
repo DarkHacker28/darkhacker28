@@ -829,7 +829,6 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/DarkHacker28)
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/DarkHacker28)
 
-
 ---
 
 🌞 Morning                69 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
