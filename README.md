@@ -825,36 +825,13 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## ⚙️ GitHub Analytics
+# ⚙️ GitHub Analytics
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/DarkHacker28)
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/DarkHacker28)
 
----
-
-## 📚 Recent Projects/ Activity
-
-✨ [Project 1 - Example Project](https://github.com/DarkHacker28/example-project-1)  
-✨ [Project 2 - Another Example](https://github.com/DarkHacker28/example-project-2)  
-✨ [Personal Portfolio - My Website](https://github.com/DarkHacker28/my-portfolio)  
-✨ [Open Source Contributions](https://github.com/DarkHacker28/open-source-projects)  
-
-### Recent Activity:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DarkHacker28/example-project-1/pull/1) in [DarkHacker28/example-project-1](https://github.com/DarkHacker28/example-project-1)
-2. 💪 Opened PR [#1](https://github.com/DarkHacker28/example-project-2/pull/1) in [DarkHacker28/example-project-2](https://github.com/DarkHacker28/example-project-2)
-3. 🎉 Merged PR [#2](https://github.com/DarkHacker28/example-project-3/pull/2) in [DarkHacker28/example-project-3](https://github.com/DarkHacker28/example-project-3)
-<!--END_SECTION:activity-->
 
 ---
 
-## 📈 Get my Code stats
-
-### Lines of Code
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
 🌞 Morning                69 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
 🌆 Daytime                20 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
 🌃 Evening                9 commits         ████░░░░░░░░░░░░░░░░░░░░░░   16.94 % 
