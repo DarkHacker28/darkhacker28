@@ -846,10 +846,8 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 
 
 [![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkhacker28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=DarkHacker28&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DarkHacker28&icon=0&color=1" alt="Visitor Count" />
-</a>
 
 
 
