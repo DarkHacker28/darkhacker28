@@ -855,65 +855,28 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-📅 I'm Most Productive on Tuesday
+🌞 Morning                69 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌆 Daytime                20 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
+🌃 Evening                9 commits         ████░░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌙 Night                  4 commits         ██░░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
-text
-Copy code
-Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░░   25.96 % 
-Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-📊 This Week I Spent My Time On
-
-text
-Copy code
-🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
 CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
 VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-gssoc-website-new        8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Socials-Winter-Of-Code   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Frontend - Copy          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Error-frontend           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Backend                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-Windows                  20 hrs 11 mins      █████████████████████████   100.00 % 
-I Mostly Code in JavaScript
-
-text
-Copy code
-JavaScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-📬 Contact Me
-If you would like to collaborate, discuss a project, or just want to chat, feel free to reach out!
-
-Footer Stats - Social Media Status
-<p align="left"> <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a> <a href="https://twitter.com/DarkHacker28"><img src="https://img.shields.io/twitter/follow/DarkHacker28?label=Follow%20Me&style=social"></a> <a href=""><img src="https://img.shields.io/twitch/status/DarkHacker28?style=social"></a> <a href=""><img src="https://img.shields.io/github/stars/DarkHacker28?label=Star%20Gazers&style=social"></a> <a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a> <a href=""><img src="https://img.shields.io/github/followers/DarkHacker28?style=social"></a> <a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a> </p>
+Windows                  10 hrs              █████████████████████████   70.00 % 
+Apple                    20 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    05 hrs              █████████████████████████   80.00 % 
 
 
-
-
-
+--------------------------------------------------------------------------------------
 
 
 [![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkhacker28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
