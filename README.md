@@ -826,29 +826,12 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 
 
 ## ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/DarkHacker28)
 [![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/DarkHacker28)
 
----
 
-🌞 Morning                69 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-
-🌆 Daytime                20 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-
-🌃 Evening                9 commits         ████░░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-
-🌙 Night                  4 commits         ██░░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-
-
-💬 Programming Languages: 
-
-JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
-
-CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-
-
+----
 🔥 Editors: 
 
 VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
