@@ -825,25 +825,17 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## ⚙️ GitHub Analytics
-## ⚙️ GitHub Analytics
-[![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/DarkHacker28)
-[![DarkHacker28 github stats](https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/DarkHacker28)
-
-
 ----
-🔥 Editors: 
-
-VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
 
 
-💻 Operating System: 
+## 🔥 Editors:
+- **VS Code**: 20 hrs 11 mins █████████████████████████ 100.00%
 
-Windows                  10 hrs              █████████████████████████   70.00 % 
+## 💻 Operating System:
+- **Windows**: 10 hrs █████████████████████████ 70.00%
+- **Apple**: 20 hrs 11 mins █████████████████████████ 100.00%
+- **Linux**: 05 hrs █████████████████████████ 80.00%
 
-Apple                    20 hrs 11 mins      █████████████████████████   100.00 % 
-
-Linux                    05 hrs              █████████████████████████   80.00 % 
 
 
 --------------------------------------------------------------------------------------
