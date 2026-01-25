@@ -138,7 +138,10 @@ Real-world problem statements including:
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DarkHacker28&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkHacker28&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
 
 ---
 
@@ -153,7 +156,9 @@ Real-world problem statements including:
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/DarkHacker28/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarkHacker28&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
