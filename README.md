@@ -85,7 +85,7 @@ My focus is on:
 ## 🚀 Projects
 
 ### 🔹 DSA Repository (C++)
-**447+ problems solved** covering:
+**780+ problems solved** covering:
 - Arrays, Strings
 - Recursion & Backtracking
 - Trees, Graphs
@@ -128,11 +128,13 @@ Real-world problem statements including:
 
 ## 🏆 Achievements
 
+- ⭐ Expert On Codeforce 
 - ⭐ LeetCode Knight (1900+ rating)
 - ⭐ 5⭐ GeeksforGeeks
 - ⭐ 4⭐ CodeChef
 - ⭐ 5⭐ HackerRank (C/C++/Python)
 - 🏅 Multiple Hackathon Wins
+- Solved More Than 780+ Question on DSA 
 
 ---
 
