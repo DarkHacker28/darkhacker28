@@ -1,45 +1,55 @@
 ![logo](https://github.com/DarkHacker28/darkhacker28/blob/main/github-header-image%20(2).png)
 
----
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
-# 👋 Hi, I'm Himanshu Singh  
+  <!-- <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div> -->
 
-💫 Frontend Developer | DSA Enthusiast | Hackathon Winner | Cybersecurity Learner  
+  <h3 align="center">Himanshu's Singh Portfolio</h3>
 
-As a motivated graduate, I bring a strong foundation in **Data Structures, Web Development, and System Design**.  
-I love building real-world projects, solving hard problems, and continuously improving my craft.
+   <div align="center">
+     💫 As a motivated and recent graduate, I bring a fresh perspective and a strong foundation of knowledge to any organization. Leveraged academic knowledge and latest approach to swiftly adapt and deliver impactful contributions, enhancing team dynamics and driving a 25% boost in productivity within the first quarter.
+  </div>
 
-</div>
+  
+  ## <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/like--v1.png" alt="like--v1"/> 
+  </div>
+     🤝 I’m looking for help with My Practice Codes🌱
+     <br>💬 Ask me about Web Development , SDLC, Programming in DSA usung C++
+     <br>⚡ Contact me : Hassu1402@gmail.com
+  
 
----
+## 📋 <a name="table">Table of Contents :</a>
 
-## 🤝 About Me  
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+7. 🚀 [More](#more)
 
-- 🌱 Currently sharpening **DSA (C++)**, **React**, and **System Design**
-- 🏆 **3+ Hackathon Wins** (college-level)
-- 💻 **447+ DSA problems solved** on LeetCode (Knight, 1900+ rating)
-- 🔐 Hands-on with **Kali Linux & Cybersecurity tools**
-- 💬 Ask me about **Web Dev, DSA, C++, SDLC**
-- 📫 Reach me at **Hassu1402@gmail.com**
 
----
+## 🚨 Tutorial : 
 
-## 📋 Table of Contents
+This repository contains the code what every thing I have made and Created. 
 
-1. 🤖 Introduction  
-2. ⚙️ Tech Stack  
-3. 🚀 Projects  
-4. 🏆 Achievements  
-5. 📊 GitHub Stats  
-6. 🌐 Socials  
+If you prefer visual learning, this is the perfect resource for you. Follow to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
----
+<a href="https://github.com/DarkHacker28" target="_blank"><img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo"/></a>
 
-## 🤖 Introduction
+## <a name="introduction">🤖 Introduction</a>
 
-This repository represents **everything I’ve built and learned** — from DSA and system-level programming to modern frontend projects.
+By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
+
+If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/></a>
 
 My focus is on:
 - Writing clean, scalable code  
