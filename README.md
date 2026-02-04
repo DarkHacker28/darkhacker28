@@ -173,7 +173,6 @@ Make sure you have the following installed on your machine:
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into my projects for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
@@ -185,15 +184,13 @@ Enjoyed creating this project? Dive deeper into my projects for a richer learnin
 
 ## 🔥 Editors:
 
-- **VS Code**:                  ██████████████████ 100.00%
+- **VS Code**:               
 
 ## 💻 Operating System:
 
-- **Windows**:                  ██████████████ 70.00%
-  
-- **Apple**:                    ██████████████████ 100.00%
-  
-- **Linux**:                    ████████████████ 80.00%
+- **Windows**:                  
+- **Apple**:                    
+- **Linux**:                 
 
 
 
