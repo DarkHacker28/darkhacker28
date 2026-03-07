@@ -178,14 +178,7 @@ Fun Fact  : I debug with console.log 😄  and I am proud of it!
 
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkHacker28&theme=tokyonight"/>
-</div>
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkHacker28&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkHacker28&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkHacker28&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkHacker28&theme=tokyonight&utcOffset=5.5"/>
-</div>
 
 <div align="center">
 <img width="68%" src="https://streak-stats.demolab.com/?user=DarkHacker28&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF4500&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=12"/>
