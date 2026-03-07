@@ -177,16 +177,18 @@ Fun Fact  : I debug with console.log 😄  and I am proud of it!
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DarkHacker28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHacker28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12"/>
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkHacker28&theme=tokyonight"/>
 </div>
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkHacker28&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkHacker28&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkHacker28&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkHacker28&theme=tokyonight&utcOffset=5.5"/>
+</div>
 
+<div align="center">
 <img width="68%" src="https://streak-stats.demolab.com/?user=DarkHacker28&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF4500&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=12"/>
-
 </div>
 
 
