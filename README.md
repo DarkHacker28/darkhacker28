@@ -53,7 +53,7 @@ Fun Fact  : I debug with console.log 😄  and I am proud of it!
 ```
 
 
-<img align="" alt="Coding" width="700" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="" alt="Coding" width="900" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 <br clear="right"/>
 
