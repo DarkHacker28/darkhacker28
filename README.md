@@ -187,8 +187,6 @@ Fun Fact  : I debug with console.log 😄  and I am proud of it!
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkHacker28&theme=tokyonight"/>
-
 </div>
 
 <div align="center">
