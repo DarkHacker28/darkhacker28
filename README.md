@@ -10,7 +10,7 @@
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=🚀+Full+Stack+Developer;⚡+DSA+in+C%2B%2B,Java+%7C+500%2B+Problems+Solved;🌐+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+AWS;💡+Boosted+Team+Productivity+by+25%25;🎯+Open+to+SWE+%7C+Frontend+%7C+Backend+Roles;🔥+Check+cxccout+my+Portfolio+)](https://entertainment-wave.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=🚀+Full+Stack+Developer;⚡+DSA+in+C%2B%2B,Java+%7C+500%2B+Problems+Solved;🌐+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+AWS;💡+Boosted+Team+Productivity+by+25%25;🎯+Open+to+SWE+%7C+Frontend+%7C+Backend+Roles;🔥+Checkout+my+Portfolio+)](https://entertainment-wave.vercel.app/)
 
 <br/>
 
