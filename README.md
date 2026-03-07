@@ -1,241 +1,229 @@
- ![logo](https://github.com/DarkHacker28/darkhacker28/blob/main/github-header-image%20(2).png)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
-  <!-- <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Himanshu%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
-  <h3 align="center">Himanshu's Singh Portfolio</h3>
+<br/>
 
-   <div align="center">
-     💫 As a motivated and recent graduate, I bring a fresh perspective and a strong foundation of knowledge to any organization. Leveraged academic knowledge and latest approach to swiftly adapt and deliver impactful contributions, enhancing team dynamics and driving a 25% boost in productivity within the first quarter.
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=👨‍💻+Full+Stack+Developer;🔥+DSA+%7C+C%2B%2B+%7C+Web+Dev;🚀+Building+Impactful+Projects;💡+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
-  
-  ## <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/like--v1.png" alt="like--v1"/> 
-  </div>
-     🤝 I’m looking for Job Opportunity in Software Development , Frontend and Backend Development.🌱
-     <br>💬 Ask me about Programming in DSA usung C++, Web Development , SDLC.
-     <br>⚡ Contact me : Hassu1402@gmail.com
-  
+<br/>
 
-## 📋 <a name="table">Table of Contents :</a>
+<p align="center">
+  <a href="mailto:Hassu1402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-choudhary-1a6b29218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DarkHacker28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.gg/wqUmUAsq"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/@Hidden_dark"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/19319042/himanshu-singh-choudhary"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+</p>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+<img src="https://komarev.com/ghpvc/?username=DarkHacker28&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 
+</div>
 
-## 🚨 Tutorial : 
+---
 
-This repository contains the code what every thing I have made and Created. 
+## 🧑‍💻 About Me
 
-If you prefer visual learning, this is the perfect resource for you. Follow to learn how to build projects like these step-by-step in a beginner-friendly manner!
+```yaml
+name: Himanshu Singh
+location: India 🇮🇳
+email: Hassu1402@gmail.com
+education: Recent Graduate | Computer Science
 
-<a href="https://github.com/DarkHacker28" target="_blank"><img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-green-tal-revivo"/></a>
+current_focus:
+  - 🔭 Open to Software Development, Frontend & Backend roles
+  - 🌱 Sharpening DSA skills in C++
+  - 💬 Ask me about: C++, Web Dev, SDLC, React, Node.js
+  - ⚡ Fun Fact: I boosted team productivity by 25% in my first quarter!
 
-## <a name="introduction">🤖 Introduction</a>
+interests:
+  - Full Stack Web Development
+  - Data Structures & Algorithms
+  - Open Source Contributions
+  - 3D Web Experiences
+```
 
-By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
+---
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+## 📋 Table of Contents
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/github.png" alt="github"/></a>
+| # | Section |
+|---|---------|
+| 1 | [⚙️ Tech Stack](#-tech-stack) |
+| 2 | [📊 GitHub Stats](#-github-stats) |
+| 3 | [🏆 Trophies & Achievements](#-github-trophies) |
+| 4 | [🔝 Top Projects](#-top-contributed-repos) |
+| 5 | [🌐 Socials](#-connect-with-me) |
 
-## <a name="tech-stack">⚙️ Tech Stack :</a>
+---
 
-- C and It's Library
-- C++ and C++ library
-- DSA Repository
-- HTML , CSS, PHP
-- Java and JavaScript
-- React.JS
-- Tailwind CSS
-- Appication and Systems
-- Many Projects, etc.
+## ⚙️ Tech Stack
 
-## <a name="features">🔋 Features : </a>
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
-👉 **Many Projects**
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
 
-👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-and many more, including code architecture and reusability 
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
-## <a name="quick-start">🤸 Quick Start :</a>
+### 🛠️ Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-Follow these steps to set up the project locally on your machine.
+### 📊 Data Science & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
 
-**Prerequisites**
+---
 
-Make sure you have the following installed on your machine:
+## 📊 GitHub Stats
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkHacker28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHacker28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHacker28&theme=tokyonight&hide_border=true" />
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wqUmUAsq) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-choudhary-1a6b29218) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://www.blogger.com/blog/posts/1142643452965213192) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19319042/himanshu-singh-choudhary) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Hidden_dark) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/your-work) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarkHacker28&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DarkHacker28&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHacker28&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarkHacker28&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkHacker28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DarkHacker28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🔝 Top Contributed Repos
 
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DarkHacker28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
 
+---
 
-## <a name="more">🚀 More</a>
+## 📈 Activity Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkHacker28&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&area_color=1a1b27" />
+</div>
 
-Enjoyed creating this project? Dive deeper into my projects for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ✍️ Dev Quote of the Day
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-----
+---
 
+## 🌐 Connect With Me
 
-## 🔥 Editors:
+<div align="center">
 
-- **VS Code**:               
+| Platform | Link |
+|----------|------|
+| 📧 Email | [Hassu1402@gmail.com](mailto:Hassu1402@gmail.com) |
+| 💼 LinkedIn | [himanshu-choudhary-1a6b29218](https://www.linkedin.com/in/himanshu-choudhary-1a6b29218) |
+| 🐱 GitHub | [DarkHacker28](https://github.com/DarkHacker28) |
+| 💬 Discord | [Join Server](https://discord.gg/wqUmUAsq) |
+| 📺 YouTube | [@Hidden_dark](https://youtube.com/@Hidden_dark) |
+| 💻 Stack Overflow | [himanshu-singh-choudhary](https://stackoverflow.com/users/19319042/himanshu-singh-choudhary) |
+| ✏️ CodePen | [Profile](https://codepen.io/your-work) |
+| 📰 Medium | [Blog](https://www.blogger.com/blog/posts/1142643452965213192) |
 
-## 💻 Operating System:
+</div>
 
-- **Windows**:                  
-- **Apple**:                    
-- **Linux**:                 
+---
 
+## 💻 Operating Systems & Editors
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
---------------------------------------------------------------------------------------
+---
 
+<div align="center">
 
-[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darkhacker28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
-![Visitor Count](https://profile-counter.glitch.me/{DarkHacker28}/count.svg)
+**💬 "First, solve the problem. Then, write the code." – John Johnson**
 
+<br/>
 
+⭐ **If you find my work helpful, consider giving a star to my repos!** ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
