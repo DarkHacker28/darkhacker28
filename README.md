@@ -181,7 +181,7 @@ Fun Fact  : I debug with console.log 😄  and I am proud of it!
 
 
 <div align="center">
-<img width="68%" src="https://streak-stats.demolab.com/?user=DarkHacker28&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF4500&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=12"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHacker28&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF4500&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=12"/>
 </div>
 
 
